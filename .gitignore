@@ -1,0 +1,13 @@
+*.mp4
+*.wav
+.direnv
+.envrc
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build
+buildDebug
+buildRelease
+a.out
+
