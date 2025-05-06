@@ -5,6 +5,6 @@ pkgs.mkShell {
   nativeBuildInputs = with pkgs; [
     cmake
     opencv
-    sfml
+    sfml_2
   ];
 }
